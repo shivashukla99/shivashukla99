@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, 
 I am an Electronics and Communication Engineering (VLSI Design and Technology) third-year student with a strong interest in, VLSI currently i am learning Digital Design with Verilog.
 I have hands-on exposure to electronics fundamentals, MATLAB, Python, digital design concepts, and I am eager to apply my knowledge to real-world projects while continuously learning and growing in the core electronics and semiconductor domain.
 
@@ -37,12 +36,12 @@ I have hands-on exposure to electronics fundamentals, MATLAB, Python, digital de
  - Xilinx Vivado .
 
 ## 📂Projects
- - [CMOS Inverter Using Cadence Virtuoso]()
- - [CMOS And Gate Using Cadence Virtuoso]()
- - [CMOS OR Gate Using Cadence Virtuoso]()
- - [CMOS NAND Gate Using Cadence Virtuoso]()
- - [half Adder uisng Xilinx Vivado]()
- - [Full Adder Unsig half Adder uisng Xilinx Vivado]()
+ - [CMOS Inverter Using Cadence Virtuoso](https://github.com/shivashukla99/CMOS_Inverter_virtuoso-2 )
+ - [CMOS And Gate Using Cadence Virtuoso](https://github.com/shivashukla99/)
+ - [CMOS OR Gate Using Cadence Virtuoso](https://github.com/shivashukla99/)
+ - [CMOS NAND Gate Using Cadence Virtuoso](https://github.com/shivashukla99/)
+ - [half Adder uisng Xilinx Vivado](https://github.com/shivashukla99/Half-Adder-Verilog-Project)
+ - [Full Adder Unsig half Adder uisng Xilinx Vivado](https://github.com/shivashukla99/Full_Adder_using_Half_adder)
 
 ## 🎓Experience 
   - Internship (3months VLSI Intern  Codec Technology)
