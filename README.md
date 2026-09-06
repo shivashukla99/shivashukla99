@@ -36,6 +36,7 @@ I have hands-on exposure to electronics fundamentals, MATLAB, Python, digital de
  - Xilinx Vivado .
 
 ## 📂Projects
+ - [16bit_6TSRAM_using_cadence_virtuoso](https://github.com/shivashukla99/xor_gate_using_cadence_virtuoso)
  - [xor_gate_using_cadence_virtuoso](https://github.com/shivashukla99/xor_gate_using_cadence_virtuoso)
  - [CMOS Inverter Using Cadence Virtuoso](https://github.com/shivashukla99/CMOS_Inverter_virtuoso-2 )
  - [CMOS And Gate Using Cadence Virtuoso](https://github.com/shivashukla99/)
