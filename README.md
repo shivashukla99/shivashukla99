@@ -51,4 +51,4 @@ I have hands-on exposure to electronics fundamentals, MATLAB, Python, digital de
 
 ✨ I enjoy building projects that connect theory with practical applications.  
 📫 Reach me on [LinkedIn](https://linkedin.com/in/abhishekshukla004) or [Email](abhishekshukla8176@gmail.com).
-
+[HDLBits](https://hdlbits.01xz.net/wiki/Special:VlgStats/28B671A2BC1F2CD) 
