@@ -34,6 +34,7 @@ I have hands-on exposure to electronics fundamentals, MATLAB, Python, digital de
 ## ⚙️Tools Used 
  - Cadence Virtuoso(90nm , 45nm).
  - Xilinx Vivado .
+ - [HDLBits](https://hdlbits.01xz.net/wiki/Special:VlgStats/28B671A2BC1F2CD) 
 
 ## 📂Projects
  - [16bit_6TSRAM_using_cadence_virtuoso](https://github.com/shivashukla99/xor_gate_using_cadence_virtuoso)
@@ -51,4 +52,4 @@ I have hands-on exposure to electronics fundamentals, MATLAB, Python, digital de
 
 ✨ I enjoy building projects that connect theory with practical applications.  
 📫 Reach me on [LinkedIn](https://linkedin.com/in/abhishekshukla004) or [Email](abhishekshukla8176@gmail.com).
-[HDLBits](https://hdlbits.01xz.net/wiki/Special:VlgStats/28B671A2BC1F2CD) 
+
