@@ -38,6 +38,7 @@ I have hands-on exposure to electronics fundamentals, MATLAB, Python, digital de
  - [HDLBits](https://hdlbits.01xz.net/wiki/Special:VlgStats/28B671A2BC1F2CD) 
 
 ## 📂Projects
+ - [FPGA_traffic_control_fsm](https://github.com/shivashukla99/FPGA_traffic_control_fsm)
  - [16bit_6TSRAM_using_cadence_virtuoso](https://github.com/shivashukla99/xor_gate_using_cadence_virtuoso)
  - [xor_gate_using_NAND_Gate_cadence_virtuoso](https://github.com/shivashukla99/xor_gate_using_cadence_virtuoso)
  - [CMOS Inverter Using Cadence Virtuoso](https://github.com/shivashukla99/CMOS_Inverter_virtuoso-2 )
