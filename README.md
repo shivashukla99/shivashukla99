@@ -34,6 +34,7 @@ I have hands-on exposure to electronics fundamentals, MATLAB, Python, digital de
 ## ⚙️Tools Used 
  - Cadence Virtuoso(90nm , 45nm).
  - Xilinx Vivado .
+ - QuestaSim Advance verification tool.
  - [HDLBits](https://hdlbits.01xz.net/wiki/Special:VlgStats/28B671A2BC1F2CD) 
 
 ## 📂Projects
