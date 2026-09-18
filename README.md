@@ -17,27 +17,30 @@ Here are some ideas to get you started:
 I am an Electronics and Communication Engineering (VLSI Design and Technology) third-year student with a strong interest in, VLSI currently i am learning Digital Design with Verilog.
 I have hands-on exposure to electronics fundamentals, MATLAB, Python, digital design concepts, and I am eager to apply my knowledge to real-world projects while continuously learning and growing in the core electronics and semiconductor domain.
 
-## 💻 Interests
+## Interests
  - Digital Circuits.
+ - ASIC Design And Verification
  - Analog Circuits.
  - Making Real-world projects.
 
-## 🎓Skills
+## Skills
  - Verilog HDL
  - System Verilog
+ - SVA
  - UVM
  - MATLAB
  - Python Programing
  - C programing
  
 
-## ⚙️Tools Used 
- - Cadence Virtuoso(90nm , 45nm).
- - Xilinx Vivado .
+## Tools Used 
  - QuestaSim Advance verification tool.
+ - Xilinx Vivado .
+ - Cadence Virtuoso(90nm , 45nm).
+ - EDA Playground.
  - [HDLBits](https://hdlbits.01xz.net/wiki/Special:VlgStats/28B671A2BC1F2CD) 
 
-## 📂Projects
+## Projects
  - [FPGA_traffic_control_fsm](https://github.com/shivashukla99/FPGA_traffic_control_fsm)
  - [16bit_6TSRAM_using_cadence_virtuoso](https://github.com/shivashukla99/xor_gate_using_cadence_virtuoso)
  - [xor_gate_using_NAND_Gate_cadence_virtuoso](https://github.com/shivashukla99/xor_gate_using_cadence_virtuoso)
@@ -52,6 +55,6 @@ I have hands-on exposure to electronics fundamentals, MATLAB, Python, digital de
   - Internship (3months VLSI Intern  Codec Technology)
    
 
-✨ I enjoy building projects that connect theory with practical applications.  
-📫 Reach me on [LinkedIn](https://linkedin.com/in/abhishekshukla004) or [Email](abhishekshukla8176@gmail.com).
+ I enjoy building projects that connect theory with practical applications.  
+ Reach me on [LinkedIn](https://linkedin.com/in/abhishekshukla004) or [Email](abhishekshukla8176@gmail.com).
 
